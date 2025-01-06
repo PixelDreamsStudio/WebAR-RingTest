@@ -118,8 +118,8 @@ const _settings = {
       VTOMode: 'ringBack'     
     }, ringModelCommonSettings)
   },
-  initialModel: 'wristDemo',
-  //initialModel: 'ringDemo',
+  //initialModel: 'wristDemo',
+  initialModel: 'ringDemo',
 
   // debug flags:
   debugDisplayLandmarks: false,
